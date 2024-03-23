@@ -30,7 +30,8 @@
     "views": {
       "statolumn-vscode": [
         {
-          "id": "statolumn-home",
+          "type": "webview",
+          "id": "statolumn.home",
           "name": "Statolumn"
         }
       ]
